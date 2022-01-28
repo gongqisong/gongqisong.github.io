@@ -1,11 +1,11 @@
 # Site settings
-title: Will Wang's Blog
-SEOTitle: 王志彪的博客
+title: QIsong Gong's Blog
+SEOTitle: 龚琪颂のBlog
 header-img: img/post-bg-index.jpg
-email: wzbcode@163.com
+email: 599471429@qq.com.com
 description: "Every failure is leading towards success."
-keyword: "王志彪的博客, Will Wang, 王志彪, Java"
-url: "https://flyingwzb.github.io/"          # your host, for absolute URL
+keyword: "龚琪颂のBlog　, 龚琪颂, Java"
+url: "https://gongqisong.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/flyingwzb/flyingwzb.github.io.git" # you code repository
 
@@ -17,13 +17,13 @@ sidebar-avatar: /img/will-wang.jpg      # use absolute URL, seeing it's used in 
 
 
 # SNS settings
-RSS: false
-weibo_username:     wzb1994
-zhihu_username:     zongguanxian
-github_username:    flyingwzb
+RSS: true
+#weibo_username:     wzb1994
+#zhihu_username:     zongguanxian
+github_username:    gonqisong
 # facebook_username:  username
 # jianshu_username:   jianshu_id
-twitter_username:   wzbcode
+#twitter_username:   wzbcode
 
 
 # Build settings
