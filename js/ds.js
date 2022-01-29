@@ -1903,7 +1903,7 @@
                     value: function genDom() {
                         this.createDom(_defineProperty({
                             className: 'tctip-qr-title'
-                        }, _dom.textKey, 'buy me a coffee.🍷'), 'p');
+                        }, _dom.textKey, 'buy me a 蜜雪冰城☕.'), 'p');
                     }
                 }]);
 
