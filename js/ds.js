@@ -2105,7 +2105,7 @@
                     value: function genDom() {
                         this.createDom(_defineProperty({
                             className: 'tctip-title'
-                        }, _dom.textKey, '喜欢就请我喝一杯🍹'), 'h1');
+                        }, _dom.textKey, '喜欢就请我喝一杯蜜雪冰城🍵'), 'h1');
                     }
                 }]);
 
