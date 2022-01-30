@@ -91,10 +91,11 @@ service-worker: true
 # Friends
 friends: [
 {title: "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",href: "https://www.bilibili.com/"},
-#{title: "阮一峰",href: "http://www.ruanyifeng.com/home.html"},
-#{title: "阿里巴巴",href: "https://www.alibabagroup.com/cn/global/home"},
-#{title: "腾讯",href: "https://www.tencent.com/zh-cn/index.html"},
-#{title: "字节跳动",href: "https://www.bytedance.com/zh"}
+{title: "英雄联盟",href: "https://lol.qq.com/"},
+{title: "学习通",href: "i.chaoxing.com"},
+{title: "云班课",href: "www.mosoteach.cn"},
+{title: "校友邦",href: "www.xybsyw.com"}
+{title: "在浙学",href: "www.zjooc.cn"}
 ]
 
 
