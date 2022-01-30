@@ -57,7 +57,7 @@ kramdown:
 # disqus_username: gongqisong
 # Gitalk
 gitalk:
-  enable: false    #是否开启Gitalk评论
+  enable: true    #是否开启Gitalk评论
   clientID: 5e82e07bc000a7e0598d                           #生成的clientID
   clientSecret: acb739ed3bab727437f4cbf2faecf4f4676de7b8    #生成的clientSecret
   repo: gongqisong.github.io    #仓库名称
